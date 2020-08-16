@@ -1,7 +1,7 @@
 # Fake-News-Detection
 # A python model which can predict the given news is fake or real.
 
-What is project about?
+What is this project about? 
 It is a python model built in jupyter which predcit the given NEWS is fake or real.
 Now the question arises what is Fake News and how do we identify it ?
 
